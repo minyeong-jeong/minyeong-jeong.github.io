@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: basename
+permalink: /about/
 ---
 
 <p class="message">
