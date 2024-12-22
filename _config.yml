@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Minyeong
 tagline:          'A Jekyll theme'
 description:      'Currently software graphics engineer in <a href="http://jekyllrb.com" target="_blank">Dexter Studios</a>'
-url:              http://hyde.getpoole.com
-baseurl:          https://minyeong-jeong.github.io/home/
+url:              https://minyeong-jeong.github.io/home
+baseurl:          /
 
 author:
   name:           'Mark Otto'
