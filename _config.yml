@@ -7,7 +7,7 @@ title:            Minyeong
 tagline:          'A Jekyll theme'
 description:      'Currently software graphics engineer in <a href="http://www.dexterstudios.com/" target="_blank">Dexter Studios</a>'
 url:              https://minyeong-jeong.github.io/
-baseurl:          https://minyeong-jeong.github.io/home/
+baseurl:          https://minyeong-jeong.github.io/
 
 author:
   name:           'Mark Otto'
