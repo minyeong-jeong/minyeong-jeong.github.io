@@ -2,13 +2,10 @@
 markdown:         kramdown
 highlighter:      pygments
 
-# Permalinks
-# permalink:        pretty
-
 # Setup
 title:            Minyeong
 tagline:          'A Jekyll theme'
-description:      'Currently software graphics engineer in <a href="http://jekyllrb.com" target="_blank">Dexter Studios</a>'
+description:      'Currently software graphics engineer in <a href="http://www.dexterstudios.com/" target="_blank">Dexter Studios</a>'
 url:              https://minyeong-jeong.github.io/
 baseurl:          https://minyeong-jeong.github.io/home/
 
