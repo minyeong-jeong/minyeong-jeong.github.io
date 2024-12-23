@@ -1,5 +1,5 @@
 ---
 layout: page
-title: DX_NEO
+title: DX_MORPHEUS
 ---
 ### Mediapipe-based facial matchmation for MAYA
